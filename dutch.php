@@ -76,10 +76,10 @@ $_lang["invalid.old.password"] = "Oud wachtwoord is niet geldig,Onmogelijk om pr
 $_lang["no.password.change.forced"] = "Om je wachtwoord te resetten dien je uitgelogd te zijn.";
 $_lang["password.reminder.edit.account"] = "Wachtwoord vergeten? Klik <a href=\"index.php?page=resetPassword\">hier</a>.";
 $_lang["contact"] = "Contact";
-$_lang["your.mail"] = "Your e-mail";
+$_lang["your.mail"] = "Je e-mail";
 $_lang["content"] = "Content";
-$_lang["send"] = "Send";
-$_lang["contact.message.sent"] = "Thank you for contacting us. Please wait for reply.";
+$_lang["send"] = "Verstuur";
+$_lang["contact.message.sent"] = "Bedankt voor het contacteren. Wacht alstublieft voor een antwoord.";
 $_lang["topic"] = "Topic";
-$_lang["contact.message.too.short"] = "Message is too short. Minimum 10 characters.";
-$_lang["contact.topic.too.short"] = "Topic is too short. Minimum 10 characters.";
+$_lang["contact.message.too.short"] = "Bericht is te kort. Minimaal 10 karakters.";
+$_lang["contact.topic.too.short"] = "Topic  is te kort. Minimaal 10 karakters.";
